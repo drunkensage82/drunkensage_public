@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drunken Sage</title>
-    <link>https://username.github.io/</link>
+    <link>https://drunkensage82.github.io/drunkensage_public/</link>
     <description>Recent content on Drunken Sage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>drunkensage82@gmail.com (Drunken Sage)</managingEditor>
     <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster>
-    <lastBuildDate>Mon, 29 May 2023 16:56:28 -0500</lastBuildDate><atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 16:56:28 -0500</lastBuildDate><atom:link href="https://drunkensage82.github.io/drunkensage_public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>https://username.github.io/post/2023-05-29-welcome/</link>
+      <link>https://drunkensage82.github.io/drunkensage_public/post/2023-05-29-welcome/</link>
       <pubDate>Mon, 29 May 2023 16:56:28 -0500</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>https://username.github.io/post/2023-05-29-welcome/</guid>
+      <guid>https://drunkensage82.github.io/drunkensage_public/post/2023-05-29-welcome/</guid>
       <description>This is my first post, how exciting!</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://username.github.io/page/about/</link>
+      <link>https://drunkensage82.github.io/drunkensage_public/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>https://username.github.io/page/about/</guid>
+      <guid>https://drunkensage82.github.io/drunkensage_public/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
 I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
