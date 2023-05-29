@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/</loc>
+    <loc>/</loc>
     <lastmod>2023-05-29T16:56:28-05:00</lastmod>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-05-29T16:56:28-05:00</lastmod>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/post/2023-05-29-welcome/</loc>
+    <loc>/post/2023-05-29-welcome/</loc>
     <lastmod>2023-05-29T16:56:28-05:00</lastmod>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/page/about/</loc>
+    <loc>/page/about/</loc>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/page/</loc>
+    <loc>/page/</loc>
   </url><url>
-    <loc>https://drunkensage82.github.io/drunkensage_public/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

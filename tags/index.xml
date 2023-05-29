@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Drunken Sage</title>
-    <link>https://drunkensage82.github.io/drunkensage_public/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Drunken Sage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>drunkensage82@gmail.com (Drunken Sage)</managingEditor>
-    <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster><atom:link href="https://drunkensage82.github.io/drunkensage_public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
