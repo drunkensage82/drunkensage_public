@@ -3,24 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
+    <lastmod>2023-05-30T15:34:56-05:00</lastmod>
   </url><url>
-    <loc>/post/2023-05-29-welcome/</loc>
-    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
+    <loc>/post/2023-05-30-essential-reading/</loc>
+    <lastmod>2023-05-30T15:34:56-05:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
-  </url><url>
-    <loc>/tags/temp/</loc>
-    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
+    <lastmod>2023-05-30T15:34:56-05:00</lastmod>
   </url><url>
     <loc>/page/about/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/page/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
