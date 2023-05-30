@@ -11,12 +11,16 @@
     <loc>/post/</loc>
     <lastmod>2023-05-29T16:56:28-05:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
+  </url><url>
+    <loc>/tags/temp/</loc>
+    <lastmod>2023-05-29T16:56:28-05:00</lastmod>
+  </url><url>
     <loc>/page/about/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/page/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
