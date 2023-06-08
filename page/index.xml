@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Drunken Sage</title>
-    <link>/page/</link>
+    <link>https://blog.drunkensage.com/page/</link>
     <description>Recent content in Pages on Drunken Sage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>drunkensage82@gmail.com (Drunken Sage)</managingEditor>
-    <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster><atom:link href="https://blog.drunkensage.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>/page/about/</link>
+      <link>https://blog.drunkensage.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>/page/about/</guid>
+      <guid>https://blog.drunkensage.com/page/about/</guid>
       <description>While details about myself I feel are rather non-important, they might help you to better understand my journey, and see the lens that distorts my viewpoints.
 After discovering meditation and practicing it daily over the course of several months, I was blessed to have an experience of the divine.
 This presence I felt was one of that of overwhelming love, and I was surrounded by a brilliant white light. I have no idea how long this lasted, but it felt I was in a place of complete timelessness.</description>

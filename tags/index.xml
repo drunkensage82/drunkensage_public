@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Drunken Sage</title>
-    <link>/tags/</link>
+    <link>https://blog.drunkensage.com/tags/</link>
     <description>Recent content in Tags on Drunken Sage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>drunkensage82@gmail.com (Drunken Sage)</managingEditor>
     <webMaster>drunkensage82@gmail.com (Drunken Sage)</webMaster>
-    <lastBuildDate>Thu, 08 Jun 2023 08:38:28 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 08:38:28 -0500</lastBuildDate><atom:link href="https://blog.drunkensage.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ego</title>
-      <link>/tags/ego/</link>
+      <link>https://blog.drunkensage.com/tags/ego/</link>
       <pubDate>Thu, 08 Jun 2023 08:38:28 -0500</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>/tags/ego/</guid>
+      <guid>https://blog.drunkensage.com/tags/ego/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spiritual growth</title>
-      <link>/tags/spiritual-growth/</link>
+      <link>https://blog.drunkensage.com/tags/spiritual-growth/</link>
       <pubDate>Thu, 08 Jun 2023 08:38:28 -0500</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>/tags/spiritual-growth/</guid>
+      <guid>https://blog.drunkensage.com/tags/spiritual-growth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cabal</title>
-      <link>/tags/cabal/</link>
+      <link>https://blog.drunkensage.com/tags/cabal/</link>
       <pubDate>Tue, 30 May 2023 19:51:31 -0500</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>/tags/cabal/</guid>
+      <guid>https://blog.drunkensage.com/tags/cabal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>economy</title>
-      <link>/tags/economy/</link>
+      <link>https://blog.drunkensage.com/tags/economy/</link>
       <pubDate>Tue, 30 May 2023 19:51:31 -0500</pubDate>
       <author>drunkensage82@gmail.com (Drunken Sage)</author>
-      <guid>/tags/economy/</guid>
+      <guid>https://blog.drunkensage.com/tags/economy/</guid>
       <description></description>
     </item>
     
